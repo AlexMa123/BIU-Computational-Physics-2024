@@ -1,2 +1,4 @@
-./fractal_tools.py
-./Lecture2\ -\ fractal.ipynb
+fractal_tools.py
+Lecture2 - fractal_withoutput.ipynb
+__pycache__
+.ipynb_checkpoints
